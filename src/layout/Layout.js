@@ -1,5 +1,4 @@
 import React from "react"
-import { RedH1 } from "../styles/mainstyles"
 import { Link } from "gatsby"
 import "../style.css"
 
